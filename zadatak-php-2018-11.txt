@@ -1,0 +1,7 @@
+Zadatak je jednostavna web aplikacija za online prijavu i pregled prijava.
+HTML, CSS i JS su definirani. Možete ih preuzeti na: https://projekti.euroart93.hr/zadaci/zadatak-php-2018-11.zip
+2 su templatea. U svakom je opisano što se na kojem treba prikazivati.
+
+Bonus zadatak je napraviti dodatni template za detaljni prikaz prijave. Na detaljnu stranicu se dolazi klikom na "Kratki opis" prijave na listi prijava.
+
+Slobodni ste dodati funkcionalnosti za koju smatrate da bi poboljšale aplikaciju.
